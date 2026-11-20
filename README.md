@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CivicPulse
 
 Multilingual Civic Complaint Intelligence & NLP Research Platform — a
@@ -59,3 +60,6 @@ See [docs/IMPLEMENTATION_CHECKLIST.md](docs/IMPLEMENTATION_CHECKLIST.md) and
 [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the phased plan. Also consult
 [docs/KNOWN_LIMITATIONS.md](docs/KNOWN_LIMITATIONS.md) before presenting the
 research outputs as results.
+=======
+# Jan_Sanket
+>>>>>>> 23b1a22f370c8bb45ec23a2012d20dedc52a9c7f
